@@ -4,7 +4,7 @@
 
 `Clicky Game` is a simple (and server-less) mobile-responsive memory game built with React. The app was developed by breaking up the application's UI into components, managing component state, and constructing functionality to respond to user events.  
 
-The app renders seventeen different images of Hermits from the Hermitcraft minecraft server, which all listen and respond to click events. A user's score is incremented by one point on click of their first Hermit image, and thereafter on each correct guess. The Hermits will automatically shuffle after every guess, and if the user clicks on a Hermit more than once, their current score will reset to zero and the game will restart. The top-score counter will maintain the user's highest previous score.
+The app renders sixteen different images of Hermits from the Hermitcraft minecraft server, which all listen and respond to click events. A user's score is incremented by one point on click of their first Hermit image, and thereafter on each correct guess. The Hermits will automatically shuffle after every guess, and if the user clicks on a Hermit more than once, their current score will reset to zero and the game will restart. The top-score counter will maintain the user's highest previous score.
 
 
 ## Demo the App
